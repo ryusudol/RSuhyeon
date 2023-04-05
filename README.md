@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Who am I</h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">I dream of being a developer who gives happiness to people :)</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">I don't like coding. But I like other things to achieve through coding. That's why I'm sitting in front of this small computer.</div> 
 </div>
 <br/>
 <br/>
